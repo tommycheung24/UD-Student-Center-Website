@@ -1,0 +1,13 @@
+.navbar {
+    background-color: #00539F;
+    /* padding: 0%; */
+    margin: 0%;
+}
+
+.logo {
+    width: 10%;
+    height: 5%;
+    padding: .5%;
+}
+
+html, body { margin:0; padding:0 }
