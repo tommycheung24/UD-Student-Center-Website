@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/UD-Student-Center-Website/static/css/main.3a33aa42.css",
-    "main.js": "/UD-Student-Center-Website/static/js/main.171ba165.js",
+    "main.js": "/UD-Student-Center-Website/static/js/main.9260d398.js",
     "static/media/Trabant-Exterior.png": "/UD-Student-Center-Website/static/media/Trabant-Exterior.a2fa4e8d33a1c13c20ea.png",
     "static/media/Perkins-Exterior.png": "/UD-Student-Center-Website/static/media/Perkins-Exterior.94c184b5ae87b7e76c0c.png",
     "index.html": "/UD-Student-Center-Website/index.html",
     "main.3a33aa42.css.map": "/UD-Student-Center-Website/static/css/main.3a33aa42.css.map",
-    "main.171ba165.js.map": "/UD-Student-Center-Website/static/js/main.171ba165.js.map"
+    "main.9260d398.js.map": "/UD-Student-Center-Website/static/js/main.9260d398.js.map"
   },
   "entrypoints": [
     "static/css/main.3a33aa42.css",
-    "static/js/main.171ba165.js"
+    "static/js/main.9260d398.js"
   ]
 }
