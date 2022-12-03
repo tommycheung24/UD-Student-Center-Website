@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/UD-Student-Center-Website/static/css/main.3a33aa42.css",
-    "main.js": "/UD-Student-Center-Website/static/js/main.9260d398.js",
+    "main.css": "/UD-Student-Center-Website/static/css/main.2576a84b.css",
+    "main.js": "/UD-Student-Center-Website/static/js/main.7c5901f9.js",
     "static/media/Trabant-Exterior.png": "/UD-Student-Center-Website/static/media/Trabant-Exterior.a2fa4e8d33a1c13c20ea.png",
+    "static/media/esport-arena.png": "/UD-Student-Center-Website/static/media/esport-arena.8b55aebc548feefcdc9f.png",
+    "static/media/dunkin.png": "/UD-Student-Center-Website/static/media/dunkin.1eed0ee8de0414332abb.png",
+    "static/media/dennys.png": "/UD-Student-Center-Website/static/media/dennys.20eb5435a5d02fa93d7e.png",
     "static/media/Perkins-Exterior.png": "/UD-Student-Center-Website/static/media/Perkins-Exterior.94c184b5ae87b7e76c0c.png",
+    "static/media/Hen-Zone.png": "/UD-Student-Center-Website/static/media/Hen-Zone.38384036577351bd2bf4.png",
+    "static/media/flip-kitchen.png": "/UD-Student-Center-Website/static/media/flip-kitchen.41bfb1cbd72163276cb4.png",
     "index.html": "/UD-Student-Center-Website/index.html",
-    "main.3a33aa42.css.map": "/UD-Student-Center-Website/static/css/main.3a33aa42.css.map",
-    "main.9260d398.js.map": "/UD-Student-Center-Website/static/js/main.9260d398.js.map"
+    "main.2576a84b.css.map": "/UD-Student-Center-Website/static/css/main.2576a84b.css.map",
+    "main.7c5901f9.js.map": "/UD-Student-Center-Website/static/js/main.7c5901f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a33aa42.css",
-    "static/js/main.9260d398.js"
+    "static/css/main.2576a84b.css",
+    "static/js/main.7c5901f9.js"
   ]
 }
