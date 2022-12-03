@@ -13,7 +13,7 @@ export default function Home() {
 
         if(today < schedule['open'] || today >= schedule['close']){
             let tomorrow = new Date(today);
-            tomorrow.setDate(tomorrow+1);
+            tomorrow.setDate(tomorrow.getDate()+1);
             let tomorrowSchedule = getSchedule(tomorrow)
             setStatus('Close');
             setReminder('Opens at ' +  tomorrowSchedule['open'].toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', hour12: true })  +  ' tomorrow')
