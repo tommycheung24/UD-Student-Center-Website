@@ -1,0 +1,35 @@
+img{
+    width:100%;
+    height: auto;
+    display: block;
+}
+
+.buildings{
+    display:flex;
+}
+
+.perkinsContainer {
+    padding: 5%;
+    text-align: center;
+}
+
+.trabantContainer {
+    padding: 5%;
+    text-align: center;
+}
+
+.title, .status {
+    font-family: 'greycliff-bold';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+body {
+    background-color: #f7f7f7;
+}
+
+.status {
+    padding: 10%;
+}
