@@ -1,4 +1,4 @@
-img{
+.studentCenterExterior{
     width:100%;
     height: auto;
     display: block;
@@ -32,4 +32,10 @@ body {
 
 .status {
     padding: 10%;
+}
+
+img {
+    border-radius: 5%;
+    border-collapse: separate; 
+    overflow: hidden
 }

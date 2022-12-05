@@ -9,7 +9,7 @@ const logo = require('../resources/logo-udel.png');
 export default function NavigationBar() {
     return (
         <Navbar class='navbar' bg='light'>
-            <Navbar.Brand href="/">
+            <Navbar.Brand href="https://www.udel.edu/">
                 <img
                  src={logo}
                  className='logo'
